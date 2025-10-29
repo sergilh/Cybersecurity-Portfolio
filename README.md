@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Portfolio
+# 🛡️ Sergi Cybersecurity Portfolio
 
 Welcome to my cybersecurity portfolio!  
 Here I share hands-on projects, labs, scripts, and reports that reflect my continuous learning and practical experience in  **Cybersecurity**.
@@ -35,7 +35,7 @@ I'm passionate about **threat analysis**, **system hardening**, and **ethical ha
 ## 🏆 Achievements
 - **eLearnSecurity Junior Penetration Tester (eJPT)** – validated hands-on pentesting proficiency.  
 - **Google Cybersecurity Professional Certificate** – completed 8-course specialization with SOC and SIEM training.  
-- **TryHackMe / HackTheBox:** Regular practice to improve offensive and defensive skills.  
+- **TryHackMe:** Regular practice to improve offensive and defensive skills.  
 - Built and maintain this **GitHub portfolio** to showcase ongoing technical growth.  
 
 ---

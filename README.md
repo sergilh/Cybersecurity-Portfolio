@@ -14,8 +14,8 @@ I'm passionate about **threat analysis**, **system hardening**, and **ethical ha
 ---
 
 ## ⚙️ Skills & Tools
-**Security & Pentesting:** Nmap, Burp Suite, Metasploit Framework (MSF), Nessus, OpenVAS, Hydra  
-**SOC / Blue Team:** Splunk SIEM, Wireshark, tcpdump, Wazuh  
+**Security & Pentesting:** Nmap, Burp Suite, Metasploit Framework (MSF), Nessus
+**SOC / Blue Team:** Splunk SIEM, Wireshark, tcpdump 
 **Systems:** Windows / Linux Administration, Active Directory, VirtualBox, Kali Linux  
 **Networking:** TCP/IP, DNS, DHCP, VPNs, Firewalls  
 **Scripting:** Bash, PowerShell, Python (basic)  

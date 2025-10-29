@@ -27,7 +27,7 @@ I'm passionate about **threat analysis**, **system hardening**, and **ethical ha
 | Project | Description | Tools |
 |----------|--------------|-------|
 | **eJPT Labs** | Practical pentesting scenarios including reconnaissance, scanning, exploitation, and post-exploitation. https://drive.google.com/drive/folders/1FA4NjYpwwdk7GVHdAOkNsQu9eFgV0903?usp=drive_link| Nmap, Burp, MSF | (in progress)
-| **Google Cybersecurity Labs** | SOC-style exercises focused on log analysis, threat detection, and incident response. https://drive.google.com/drive/folders/1s55_CpXOTE-863T5RuQEkV0U2EFjsgcM?usp=drive_link | Splunk, Linux | 
+| **Google Cybersecurity Labs** | SOC-style exercises focused on log analysis, threat detection, and incident response. https://drive.google.com/drive/folders/15cOEAvpn71iC0bpdyaMit16qfAMZmTdC?usp=drive_link | Splunk, Linux | 
 | **TryHackMe** | Capture-the-flag challenges simulating real-world attack vectors. | Various | 
 
 ---

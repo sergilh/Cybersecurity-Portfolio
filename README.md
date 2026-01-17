@@ -33,7 +33,8 @@ I'm passionate about **threat analysis**, **system hardening**, and **ethical ha
 ---
 
 ## 🏆 Achievements
-- **eLearnSecurity Junior Penetration Tester (eJPT)** – validated hands-on pentesting proficiency.  
+- **Web Fundamentals** – validated web knowledge for pentesting.  
+- **Jr.Penetration Tester (PT1) Learning** – validated hands-on pentesting proficiency.  
 - **Google Cybersecurity Professional Certificate** – completed 8-course specialization with SOC and SIEM training.  
 - **TryHackMe:** Regular practice to improve offensive and defensive skills.  
 - Built and maintain this **GitHub portfolio** to showcase ongoing technical growth.  

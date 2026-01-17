@@ -7,7 +7,7 @@ Here I share hands-on projects, labs, scripts, and reports that reflect my conti
 
 ## 👨‍💻 About Me
 I'm a **Cybersecurity Junior** with a background in Labor Relations and a growing specialization in IT information security.  
-After completing my degree, I transitioned into tech through a **Full Stack Development Bootcamp** and certifications including **Google Cybersecurity Professional Certificate** **Google IT Support Professional Certificate** and **eLearnSecurity Junior Penetration Tester (eJPT) (in progress)**.  
+After completing my degree, I transitioned into tech through a **Full Stack Development Bootcamp** and certifications including **Google Cybersecurity Professional Certificate** **Google IT Support Professional Certificate** and **now in the Cybersecurity & Privacy University Master (UOC)**.  
 
 I'm passionate about **threat analysis**, **system hardening**, and **ethical hacking**, always aiming to combine technical skills with clear communication and problem-solving.
 
